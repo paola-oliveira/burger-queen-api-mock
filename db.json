@@ -230,7 +230,7 @@
       "name": "Bebida esponjosa",
       "price": 12,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/cerveja.png",
-      "category": "Acompanhamentos",
+      "category": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
