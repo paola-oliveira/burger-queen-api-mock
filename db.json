@@ -133,7 +133,7 @@
       "id": 9,
       "name": "Água 500ml",
       "price": 500,
-      "image": "./imagens/agua.png",
+      "image": "https://github.com/paola-oliveira/burger-queen-api-mock/blob/main/imagens/agua.png",
       "type": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -141,7 +141,7 @@
       "id": 10,
       "name": "Água 750ml",
       "price": 700,
-      "image": "./imagens/agua.png",
+      "image": "https://github.com/paola-oliveira/burger-queen-api-mock/blob/main/imagens/agua.png",
       "type": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
