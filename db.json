@@ -70,7 +70,7 @@
       "name": "Café com leite",
       "price": 7,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/cafe-com-leite.png",
-      "type": "Café da manhã",
+      "category": "Café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -78,7 +78,7 @@
       "name": "Café americano",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/cafe-americano.png",
-      "type": "Café da manhã",
+      "category": "Café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -86,7 +86,7 @@
       "name": "Misto quente",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/misto-quente.png",
-      "type": "Café da manhã",
+      "category": "Café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -94,7 +94,7 @@
       "name": "Suco de fruta",
       "price": 7,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/suco-de-fruta.png",
-      "type": "Café da manhã",
+      "category": "Café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -102,7 +102,7 @@
       "name": "Simples",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-simples.png",
-      "type": "Hambúrgueres",
+      "category": "Hambúrgueres",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -110,7 +110,7 @@
       "name": "Duplo",
       "price": 15,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-duplo.png",
-      "type": "Hambúrgueres",
+      "category": "Hambúrgueres",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -118,7 +118,7 @@
       "name": "Batata frita",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/batata-frita.png",
-      "type": "Acompanhamentos",
+      "category": "Acompanhamentos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -126,7 +126,7 @@
       "name": "Anéis de cebola",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/aneis-de-cebola.png",
-      "type": "Acompanhamentos",
+      "category": "Acompanhamentos",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -134,7 +134,7 @@
       "name": "Água 500ml",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/agua.png",
-      "type": "Bebidas",
+      "category": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -142,7 +142,7 @@
       "name": "Água 750ml",
       "price": 7,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/agua.png",
-      "type": "Bebidas",
+      "category": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -150,7 +150,7 @@
       "name": "Refrigerante 500ml",
       "price": 7,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/bebida-gaseificada.png",
-      "type": "Bebidas",
+      "category": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -158,7 +158,7 @@
       "name": "Refrigerante 750ml",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/bebida-gaseificada.png",
-      "type": "Bebidas",
+      "category": "Bebidas",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
