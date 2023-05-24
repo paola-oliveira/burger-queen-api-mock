@@ -99,7 +99,7 @@
     },
     {
       "id": 5,
-      "name": "Hambúrguer Simples",
+      "name": "Simples",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-simples.png",
       "type": "Hambúrgueres",
@@ -107,7 +107,7 @@
     },
     {
       "id": 6,
-      "name": "Hambúrguer Duplo",
+      "name": "Duplo",
       "price": 15,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-duplo.png",
       "type": "Hambúrgueres",
@@ -115,7 +115,7 @@
     },
     {
       "id": 7,
-      "name": "Batata Frita",
+      "name": "Batata frita",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/batata-frita.png",
       "type": "Acompanhamentos",
@@ -123,7 +123,7 @@
     },
     {
       "id": 8,
-      "name": "Anéis de Cebola",
+      "name": "Anéis de cebola",
       "price": 5,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/aneis-de-cebola.png",
       "type": "Acompanhamentos",
@@ -147,7 +147,7 @@
     },
     {
       "id": 11,
-      "name": "Bebida Gaseificada 500ml",
+      "name": "Refrigerante 500ml",
       "price": 7,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/bebida-gaseificada.png",
       "type": "Bebidas",
@@ -155,7 +155,7 @@
     },
     {
       "id": 12,
-      "name": "Bebida Gaseificada 750ml",
+      "name": "Refrigerante 750ml",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/bebida-gaseificada.png",
       "type": "Bebidas",
