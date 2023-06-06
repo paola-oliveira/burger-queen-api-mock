@@ -261,13 +261,13 @@
     },
     {
       "email": "atendente@bobsburguer.com",
-      "password": "123456",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "garcom",
       "id": 5
     },
     {
       "email": "cozinha@bobsburguer.com",
-      "password": "123456",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "cozinha",
       "id": 6
     }
