@@ -37,7 +37,7 @@
     },
     {
       "id": 5,
-      "name": "Simples",
+      "name": "Burg Simples",
       "price": 10,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-simples.png",
       "category": "Hambúrgueres",
@@ -45,7 +45,7 @@
     },
     {
       "id": 6,
-      "name": "Duplo",
+      "name": "Burg Duplo",
       "price": 15,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-duplo.png",
       "category": "Hambúrgueres",
@@ -141,7 +141,7 @@
     },
     {
       "id": 18,
-      "name": "Siri",
+      "name": "Burg Siri",
       "price": 20,
       "image": "https://raw.github.com/paola-oliveira/burger-queen-api-mock/main/imagens/hamburguer-siri.png",
       "category": "Hambúrgueres",
