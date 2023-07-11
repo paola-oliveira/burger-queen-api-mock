@@ -1,6 +1,86 @@
 {
   "orders": [
-   
+  {
+		"userId": "5",
+		"client": "Ana Paula",
+		"products": [
+			{
+				"id": 9,
+				"name": "Água 500ml",
+				"quantity": 1,
+				"price": "5.00"
+			},
+			{
+				"id": 4,
+				"name": "Suco de fruta",
+				"quantity": 1,
+				"price": "7.00"
+			}
+		],
+		"status": "Pendente",
+		"dateEntry": "11/07/2023, 14:01:15",
+		"id": 2
+	},
+  	{
+		"userId": "5",
+		"client": "Alfredo",
+		"products": [
+			{
+				"id": 9,
+				"name": "Água 500ml",
+				"quantity": 1,
+				"price": "5.00"
+			},
+			{
+				"id": 4,
+				"name": "Suco de fruta",
+				"quantity": 1,
+				"price": "7.00"
+			}
+		],
+		"status": "Em preparo",
+		"dateEntry": "11/07/2023, 14:01:15",
+		"id": 2,
+		"dateProcessed": "14:03:37"
+	},
+  {
+		"userId": "5",
+		"client": "João",
+		"products": [
+			{
+				"id": 10,
+				"name": "Água 750ml",
+				"quantity": 1,
+				"price": "7.00"
+			},
+			{
+				"id": 11,
+				"name": "Refrigerante 500ml",
+				"quantity": 1,
+				"price": "7.00"
+			}
+		],
+		"status": "Pronto",
+		"dateEntry": "11/07/2023, 13:59:19",
+		"id": 1,
+		"dateProcessed": "14:00:05"
+	},
+	{
+		"userId": "5",
+		"client": "Paola",
+		"products": [
+			{
+				"id": 3,
+				"name": "Misto quente",
+				"quantity": 1,
+				"price": "10.00"
+			}
+		],
+		"status": "Entregue",
+		"dateEntry": "11/07/2023, 10:42:21",
+		"id": 1,
+		"dateProcessed": "10:43:11"
+	}
   ],
   "products": [
     {
